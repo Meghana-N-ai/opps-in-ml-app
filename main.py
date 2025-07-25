@@ -1,4 +1,4 @@
-from classifier.mlopps import MLApplication
+from classifier.inheritance import MLApplication
 
 if __name__ == "__main__":
     # Run the pipeline
